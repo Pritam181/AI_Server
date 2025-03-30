@@ -1,0 +1,38 @@
+2025-03-25 14:11:03,573 - WARNING:  * Debugger is active!
+2025-03-25 14:11:03,574 - INFO:  * Debugger PIN: 135-619-887
+2025-03-25 14:11:06,525 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:06] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:10,790 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-03-25 14:11:10,790 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-25 14:11:10,796 - INFO:  * Restarting with stat
+2025-03-25 14:11:12,242 - WARNING:  * Debugger is active!
+2025-03-25 14:11:12,258 - INFO:  * Debugger PIN: 135-619-887
+2025-03-25 14:11:15,050 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:21,014 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:21] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:27,710 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-03-25 14:11:27,710 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-25 14:11:27,710 - INFO:  * Restarting with stat
+2025-03-25 14:11:29,174 - WARNING:  * Debugger is active!
+2025-03-25 14:11:29,174 - INFO:  * Debugger PIN: 135-619-887
+2025-03-25 14:11:31,973 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:37,999 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:37] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:44,144 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:44] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:50,092 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:11:58,279 - INFO: 192.168.4.110 - - [25/Mar/2025 14:11:58] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:12:03,806 - INFO: 192.168.4.110 - - [25/Mar/2025 14:12:03] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:14:59,556 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-03-25 14:14:59,556 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-25 14:14:59,557 - INFO:  * Restarting with stat
+2025-03-25 14:15:01,332 - WARNING:  * Debugger is active!
+2025-03-25 14:15:01,343 - INFO:  * Debugger PIN: 135-619-887
+2025-03-25 14:15:06,040 - INFO: 192.168.4.110 - - [25/Mar/2025 14:15:06] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:15:12,011 - INFO: 192.168.4.110 - - [25/Mar/2025 14:15:12] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-03-25 14:15:17,834 - INFO: 192.168.4.110 - - [25/Mar/2025 14:15:17] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
